@@ -1,0 +1,17 @@
+  <style>
+  div.content {
+    float: right;
+    margin-left: 5px;
+    color: orange;
+    text-align: justify;
+    font-size: 150%;
+    font-weight: bold;
+    text-transform: capitalize;
+    padding-left: 40px;
+    padding-right: 40px;
+    background: url(http://cdn.backgroundhost.com/backgrounds/subtlepatterns/black_denim.png);
+    border-style: solid;
+    font-family: "Times New Roman", Times, serif;
+    font-style: normal;
+    line-height: 120%;
+  </style>
